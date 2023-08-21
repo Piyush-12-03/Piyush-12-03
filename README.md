@@ -32,6 +32,10 @@
 
 ###
 
+<h4 align="left">I'm Piyush Kag from Indore, India<br><br>- 🔭 I’m Looking for opportunity as a Software Developer<br>- 📚 I'm currently learning Collection Framework.</h4>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -51,10 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-<h4 align="left">I'm Piyush Kag from Indore, India<br><br>- 🔭 I’m Looking for opportunity as a Software Developer<br>- 📚 I'm currently learning Collection Framework.</h4>
 
 ###
 
