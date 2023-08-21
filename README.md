@@ -49,12 +49,3 @@
 <p align="center">I`m Seeking to work in a Software Development Company.<br>I`m ready to join immediately.</p>
 
 ###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif"  />
-
-###
-<img src="https://raw.githubusercontent.com/Piyush-12-03/Piyush-12-03/output/snake.svg" alt="Snake animation" />
-
-###
