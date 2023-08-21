@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Piyush Kag and I'm a Fresher Software Developer from Indore, M.P, India.</h2>
+<h2 align="left">Hi 👋! My name is Piyush Kag
+  I'm a Fresher Software Developer from Indore, India.</h2>
 
 ###
 
