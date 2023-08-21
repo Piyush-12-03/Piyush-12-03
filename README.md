@@ -46,7 +46,7 @@
 
 ###
 
-<p align="center">I`m Seeking to work in a Software Development Company.<br>I`m ready to join immediately.</p>
+<h2 align="center">I`m Seeking to work in a Software Development Company.<br>I`m ready to join immediately.</h2>
 
 ###
 
