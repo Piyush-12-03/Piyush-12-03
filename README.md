@@ -54,8 +54,4 @@
 
 <img align="left" height="150" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif"  />
 
-###
 
-<img src="https://raw.githubusercontent.com/Piyush-12-03/Piyush-12-03/output/snake.svg" alt="Snake animation" />
-
-###
