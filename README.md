@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">I'm Piyush Kag from Indore, India<br><br>- 🔭 I’m working as a Trainee Software Developer at Innogent<br>- 📚 Currently, I`m learning Collection Framework, Stream API, SpringBoot.</h4>
+<h4 align="left">I'm Piyush Kag from Indore, India<br><br>- 🔭 I’m working as a Software Developer at Innogent<br>- 📚 Currently, I`m learning SpringBoot, AWS, MongoDB, Redux.</h4>
 
 ###
 
