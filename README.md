@@ -18,10 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Piyush-12-03.Piyush-12-03&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey there 👋</h1>
